@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIAOD_5sem_kursovayaJob", "SIAOD_5sem_kursovayaJob\SIAOD_5sem_kursovayaJob.csproj", "{B7F14D33-2C9A-46C6-AC11-B145BE7AF2B3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BruteForceApproach", "BruteForceApproach\BruteForceApproach.csproj", "{AD50DFCD-E901-4182-B7A4-4DA0B51F5CD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneticAlgorithm", "GeneticAlgorithm\GeneticAlgorithm.csproj", "{50359367-33CD-4564-AF1F-226A59792C2A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B7F14D33-2C9A-46C6-AC11-B145BE7AF2B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B7F14D33-2C9A-46C6-AC11-B145BE7AF2B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B7F14D33-2C9A-46C6-AC11-B145BE7AF2B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B7F14D33-2C9A-46C6-AC11-B145BE7AF2B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD50DFCD-E901-4182-B7A4-4DA0B51F5CD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD50DFCD-E901-4182-B7A4-4DA0B51F5CD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD50DFCD-E901-4182-B7A4-4DA0B51F5CD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD50DFCD-E901-4182-B7A4-4DA0B51F5CD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50359367-33CD-4564-AF1F-226A59792C2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50359367-33CD-4564-AF1F-226A59792C2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50359367-33CD-4564-AF1F-226A59792C2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50359367-33CD-4564-AF1F-226A59792C2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
